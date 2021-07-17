@@ -1,2 +1,2 @@
-# pandas-fundamentals
-Pandas archives
+# Pandas Fundamentals
+
